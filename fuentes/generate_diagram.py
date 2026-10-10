@@ -1,5 +1,13 @@
 #!/usr/bin/env python3
-"""Genera LiveTix-Arquitectura.drawio (version final, sin lineas cruzadas)"""
+# Generador del diagrama de arquitectura de LiveTix.
+#
+# Decidi versionar el diagrama como codigo en lugar de dibujarlo a mano en
+# draw.io porque asi queda reproducible y revisable en PRs. Cuando cambia
+# la arquitectura, se toca este archivo y se regenera el .drawio con un
+# solo comando. Los exports a PNG/SVG/PDF los hago con el CLI de draw.io.
+#
+# Uso:  python3 generate_diagram.py
+# Out:  LiveTix-Arquitectura.drawio
 
 from xml.dom import minidom
 

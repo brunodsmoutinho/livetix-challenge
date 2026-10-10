@@ -1,0 +1,7 @@
+.DS_Store
+*.bak
+*.bkp
+Untitled.*
+*.rtf
+__pycache__/
+*.pyc
