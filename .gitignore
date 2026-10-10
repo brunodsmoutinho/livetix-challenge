@@ -5,3 +5,7 @@ Untitled.*
 *.rtf
 __pycache__/
 *.pyc
+
+# Archivos internos de edicion (no forman parte del entregable)
+Extras-*.drawio
+*.backup-antes-melhorias.drawio

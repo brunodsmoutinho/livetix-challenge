@@ -1,20 +1,20 @@
 <mxfile host="Electron">
   <diagram name="LiveTix" id="p1">
-    <mxGraphModel dx="2600" dy="1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2600" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="2893" dy="1704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2600" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="cell_3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;strokeWidth=2;dashed=1;dashPattern=8 8;verticalAlign=top;align=left;spacingTop=10;spacingLeft=15;fontSize=16;fontStyle=1;fontColor=#333333;" value="PLANO GLOBAL (una sola vez en el mundo)" vertex="1">
-          <mxGeometry height="260" width="2280" x="60" y="130" as="geometry" />
+          <mxGeometry height="358.5" width="2280" x="30" y="100" as="geometry" />
         </mxCell>
-        <mxCell id="cell_4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;strokeWidth=2;dashed=1;dashPattern=8 8;verticalAlign=top;align=left;spacingTop=10;spacingLeft=15;fontSize=15;fontStyle=1;fontColor=#333333;" value="REGION us-east-1" vertex="1">
-          <mxGeometry height="900" width="680" x="60" y="450" as="geometry" />
+        <mxCell id="cell_4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;dashPattern=8 8;verticalAlign=top;align=left;spacingTop=10;spacingLeft=15;fontSize=15;fontStyle=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;REGION us-east-1&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;EUA - MEXICO - CANADA&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="1080" width="700" x="51" y="581" as="geometry" />
         </mxCell>
-        <mxCell id="cell_5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;strokeWidth=2;dashed=1;dashPattern=8 8;verticalAlign=top;align=left;spacingTop=10;spacingLeft=15;fontSize=15;fontStyle=1;fontColor=#333333;" value="REGION eu-west-1" vertex="1">
-          <mxGeometry height="900" width="680" x="780" y="450" as="geometry" />
+        <mxCell id="cell_5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;dashed=1;dashPattern=8 8;verticalAlign=top;align=left;spacingTop=10;spacingLeft=15;fontSize=15;fontStyle=1;gradientColor=#ffd966;" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;REGION eu-west-1&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;EUROPA -Espanha - Portugal&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="1080" width="680" x="780" y="581" as="geometry" />
         </mxCell>
-        <mxCell id="cell_6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#D79B00;strokeWidth=2;dashed=1;dashPattern=8 8;verticalAlign=top;align=left;spacingTop=10;spacingLeft=15;fontSize=15;fontStyle=1;fontColor=#333333;" value="REGION sa-east-1" vertex="1">
-          <mxGeometry height="900" width="680" x="1500" y="450" as="geometry" />
+        <mxCell id="cell_6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#10739e;strokeWidth=2;dashed=1;dashPattern=8 8;verticalAlign=top;align=left;spacingTop=10;spacingLeft=15;fontSize=15;fontStyle=1;" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;REGION sa-east-1&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;SUDAMERICA - Brasil - Argentina&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="1080" width="680" x="1520" y="581" as="geometry" />
         </mxCell>
         <mxCell id="cell_1" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1;fontColor=#0B3D91;" value="LiveTix - Arquitectura Global" vertex="1">
           <mxGeometry height="50" width="1600" x="60" y="20" as="geometry" />
@@ -22,65 +22,65 @@
         <mxCell id="cell_2" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=0;fontColor=#555555;" value="Autor: Bruno Moutinho  |  Nube: AWS  |  3 regiones" vertex="1">
           <mxGeometry height="30" width="1600" x="60" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="cell_7" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.route_53;" value="Route 53" vertex="1">
-          <mxGeometry height="78" width="78" x="140" y="200" as="geometry" />
+        <mxCell id="cell_7" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.route_53;" value="Route 53&lt;br&gt;DNS Global&lt;br&gt;envia a AWS mas cerca/Latencia" vertex="1">
+          <mxGeometry height="78" width="78" x="140" y="286" as="geometry" />
         </mxCell>
-        <mxCell id="cell_8" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.waf;" value="WAF + Shield" vertex="1">
-          <mxGeometry height="78" width="78" x="340" y="200" as="geometry" />
+        <mxCell id="cell_8" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.waf;" value="WAF + Shield&lt;br&gt;block bots/DDoS&amp;nbsp;&lt;br&gt;y ataques /drops boletos/no scalpers" vertex="1">
+          <mxGeometry height="78" width="78" x="340" y="204" as="geometry" />
         </mxCell>
-        <mxCell id="cell_9" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.cloudfront;" value="CloudFront" vertex="1">
-          <mxGeometry height="78" width="78" x="540" y="200" as="geometry" />
+        <mxCell id="cell_9" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.cloudfront;" value="CloudFront&lt;br&gt;Baja latencia lectura/imagenes y paginas&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="78" width="78" x="540" y="166" as="geometry" />
         </mxCell>
-        <mxCell id="cell_10" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.cognito;" value="Cognito" vertex="1">
-          <mxGeometry height="78" width="78" x="740" y="200" as="geometry" />
+        <mxCell id="cell_10" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.cognito;" value="Cognito/Login&lt;br&gt;tokens y JWT" vertex="1">
+          <mxGeometry height="78" width="78" x="740" y="204" as="geometry" />
         </mxCell>
-        <mxCell id="cell_11" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.dynamodb;" value="DynamoDB Global" vertex="1">
-          <mxGeometry height="78" width="78" x="940" y="200" as="geometry" />
+        <mxCell id="cell_11" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.dynamodb;" value="DynamoDB Global&lt;br&gt;catalogo de eventos con latencia de lectura de menos 10ms" vertex="1">
+          <mxGeometry height="78" width="78" x="996" y="202" as="geometry" />
         </mxCell>
-        <mxCell id="cell_12" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.api_gateway;" value="API Gateway" vertex="1">
-          <mxGeometry height="60" width="60" x="100" y="540" as="geometry" />
-        </mxCell>
-        <mxCell id="cell_13" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.elastic_load_balancing;" value="ALB" vertex="1">
+        <mxCell id="cell_12" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.api_gateway;" value="API Gateway&lt;br&gt;HTTP de su region&lt;br&gt;hace rate limiting u enruta" vertex="1">
           <mxGeometry height="60" width="60" x="100" y="680" as="geometry" />
         </mxCell>
-        <mxCell id="cell_14" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.fargate;" value="Checkout" vertex="1">
-          <mxGeometry height="60" width="60" x="300" y="540" as="geometry" />
+        <mxCell id="cell_13" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.elastic_load_balancing;" value="ALB&lt;br&gt;Load Balancer&lt;br&gt;redirige se una se cae&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="60" x="100" y="820" as="geometry" />
         </mxCell>
-        <mxCell id="cell_15" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.fargate;" value="Inventario" vertex="1">
+        <mxCell id="cell_14" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.fargate;" value="Checkout&lt;br&gt;&quot;Brain - coordina con inventario y encola en SQS&quot;" vertex="1">
           <mxGeometry height="60" width="60" x="300" y="680" as="geometry" />
         </mxCell>
-        <mxCell id="cell_16" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.fargate;" value="Payment Worker" vertex="1">
-          <mxGeometry height="60" width="60" x="300" y="830" as="geometry" />
+        <mxCell id="cell_15" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.fargate;" value="Inventario&lt;br&gt;Asientos&lt;br&gt;UPDATE..WHERE status=Available" vertex="1">
+          <mxGeometry height="60" width="60" x="300" y="820" as="geometry" />
         </mxCell>
-        <mxCell id="cell_17" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.fargate;" value="Ticket Issue" vertex="1">
-          <mxGeometry height="60" width="60" x="300" y="980" as="geometry" />
+        <mxCell id="cell_16" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.fargate;" value="Payment Worker&lt;br&gt;consume SQS ejecuta Stripe/no deja cobrar&amp;nbsp;2X&lt;br&gt;qdo confirma pago-actualiza order y graba en outbox" vertex="1">
+          <mxGeometry height="60" width="60" x="300" y="970" as="geometry" />
         </mxCell>
-        <mxCell id="cell_18" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.lambda;" value="Reconciliador" vertex="1">
-          <mxGeometry height="60" width="60" x="300" y="1210" as="geometry" />
+        <mxCell id="cell_17" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.fargate;" value="Ticket Issue Wroker&lt;br&gt;consume SNS-genera boleto en PDF con QR&lt;br&gt;gurada em S3 y TICKET ISSUED- email usuario&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="60" x="301" y="1120" as="geometry" />
         </mxCell>
-        <mxCell id="cell_19" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.aurora;" value="Orders DB" vertex="1">
-          <mxGeometry height="60" width="60" x="520" y="540" as="geometry" />
+        <mxCell id="cell_18" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.lambda;" value="&lt;div&gt;Reconciliador&lt;br&gt;corre cada 60s por EventBridge&lt;br&gt;detecta PAID sin boleto &lt;span style=&quot;background-color: rgb(249, 250, 251); color: rgb(15, 17, 21); text-align: start; caret-color: rgb(15, 17, 21); white-space: pre-wrap;&quot;&gt;&amp;gt; 2 min&lt;br/&gt;garantiza regla jamas cobrar sin entregar boleto&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="60" x="258" y="1350" as="geometry" />
         </mxCell>
-        <mxCell id="cell_20" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.dynamodb;" value="Inventario DB" vertex="1">
+        <mxCell id="cell_19" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.aurora;" value="Orders DB&lt;br&gt;con ACID estados &lt;br&gt;- pend-reserved-paid-ticket issued" vertex="1">
           <mxGeometry height="60" width="60" x="520" y="680" as="geometry" />
         </mxCell>
-        <mxCell id="cell_21" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.sqs;" value="SQS FIFO" vertex="1">
-          <mxGeometry height="60" width="60" x="520" y="830" as="geometry" />
+        <mxCell id="cell_20" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.dynamodb;" value="Inventario DB&lt;br&gt;guarda assientos e suporta atomicidad con &lt;br&gt;latencia de milisegundos" vertex="1">
+          <mxGeometry height="60" width="60" x="521" y="820" as="geometry" />
         </mxCell>
-        <mxCell id="cell_22" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.dynamodb;" value="Outbox" vertex="1">
-          <mxGeometry height="60" width="60" x="520" y="980" as="geometry" />
+        <mxCell id="cell_21" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.sqs;" value="SQS FIFO&lt;br&gt;buffer entre checkout &lt;br&gt;y payment worker&lt;br&gt;con picos de 20x sin tumbar workers" vertex="1">
+          <mxGeometry height="60" width="60" x="520" y="970" as="geometry" />
         </mxCell>
-        <mxCell id="cell_23" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.sns;" value="SNS" vertex="1">
-          <mxGeometry height="60" width="60" x="520" y="1130" as="geometry" />
+        <mxCell id="cell_22" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.dynamodb;" value="Outbox Dynamod DB&lt;br&gt;graba order=PAID&lt;br&gt;worker lee y publica SNS" vertex="1">
+          <mxGeometry height="60" width="60" x="520" y="1120" as="geometry" />
         </mxCell>
-        <mxCell id="cell_24" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.s3;" value="Boletos S3" vertex="1">
+        <mxCell id="cell_23" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.sns;" value="SNS&lt;br&gt;publica order.paid para consumidores&lt;br&gt;Ticket Issue Worker" vertex="1">
           <mxGeometry height="60" width="60" x="520" y="1270" as="geometry" />
         </mxCell>
-        <mxCell id="cell_25" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.secrets_manager;" value="Secrets" vertex="1">
-          <mxGeometry height="60" width="60" x="100" y="1210" as="geometry" />
+        <mxCell id="cell_24" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.s3;" value="Boletos S3&lt;br&gt;almacena los PDFS con QR por CloudFront&lt;br&gt;bajo costo y durable" vertex="1">
+          <mxGeometry height="60" width="60" x="520" y="1410" as="geometry" />
         </mxCell>
-        <mxCell id="cell_26" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.cloudwatch;" value="CloudWatch" vertex="1">
-          <mxGeometry height="60" width="60" x="100" y="1310" as="geometry" />
+        <mxCell id="cell_25" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.secrets_manager;" value="Secrets Manager&lt;br&gt;Store API de Stripe/DB&amp;nbsp;&lt;br&gt;cyclo de 90 dias" vertex="1">
+          <mxGeometry height="60" width="60" x="100" y="1135" as="geometry" />
+        </mxCell>
+        <mxCell id="cell_26" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.cloudwatch;" value="CloudWatch&lt;br&gt;Metricas" vertex="1">
+          <mxGeometry height="60" width="60" x="100" y="1450" as="geometry" />
         </mxCell>
         <mxCell id="cell_27" edge="1" parent="1" source="cell_12" style="rounded=0;html=1;strokeColor=#000000;strokeWidth=2;fontSize=9;fontColor=#333333;edgeStyle=orthogonalEdgeStyle;jettySize=auto;orthogonalLoop=1;" target="cell_14" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -118,50 +118,55 @@
         <mxCell id="cell_38" edge="1" parent="1" source="cell_18" style="rounded=0;html=1;strokeColor=#D79B00;strokeWidth=2;fontSize=9;fontColor=#333333;dashed=1;dashPattern=6 4;edgeStyle=orthogonalEdgeStyle;jettySize=auto;orthogonalLoop=1;" target="cell_19" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cell_39" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.api_gateway;" value="API Gateway" vertex="1">
-          <mxGeometry height="60" width="60" x="820" y="540" as="geometry" />
+        <mxCell id="cell_39" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.api_gateway;" value="API Gateway&lt;br&gt;HTTP de su region&lt;br&gt;hace rate limiting u enruta" vertex="1">
+          <mxGeometry height="60" width="60" x="821" y="671" as="geometry" />
         </mxCell>
-        <mxCell id="cell_40" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.elastic_load_balancing;" value="ALB" vertex="1">
-          <mxGeometry height="60" width="60" x="820" y="680" as="geometry" />
+        <mxCell id="cell_40" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.elastic_load_balancing;" value="ALB&lt;br&gt;Load Balancer&lt;br&gt;redirige se una se cae" vertex="1">
+          <mxGeometry height="60" width="60" x="810" y="811" as="geometry" />
         </mxCell>
-        <mxCell id="cell_41" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.fargate;" value="Checkout" vertex="1">
-          <mxGeometry height="60" width="60" x="1020" y="540" as="geometry" />
+        <mxCell id="cell_41" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.fargate;" value="Checkout&lt;br&gt;&quot;Brain - coordina con inventario y encola en SQS" vertex="1">
+          <mxGeometry height="60" width="60" x="1010" y="671" as="geometry" />
         </mxCell>
-        <mxCell id="cell_42" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.fargate;" value="Inventario" vertex="1">
-          <mxGeometry height="60" width="60" x="1020" y="680" as="geometry" />
+        <mxCell id="cell_42" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.fargate;" value="Inventario&lt;br&gt;Asientos&lt;br&gt;UPDATE..WHERE status=Available" vertex="1">
+          <mxGeometry height="60" width="60" x="1010" y="811" as="geometry" />
         </mxCell>
-        <mxCell id="cell_43" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.fargate;" value="Payment Worker" vertex="1">
-          <mxGeometry height="60" width="60" x="1020" y="830" as="geometry" />
+        <mxCell id="cell_43" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.fargate;" value="Payment Worker&lt;br&gt;consume SQS ejecuta Stripe/no deja cobrar 2X&lt;br&gt;qdo confirma pago-actualiza order y graba en outbox" vertex="1">
+          <mxGeometry height="60" width="60" x="1010" y="961" as="geometry" />
         </mxCell>
-        <mxCell id="cell_44" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.fargate;" value="Ticket Issue" vertex="1">
-          <mxGeometry height="60" width="60" x="1020" y="980" as="geometry" />
+        <mxCell id="cell_44" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.fargate;" value="Ticket Issue Wroker&lt;br&gt;consume SNS-genera boleto en PDF con QR&lt;br&gt;gurada em S3 y TICKET ISSUED- email usuario" vertex="1">
+          <mxGeometry height="60" width="60" x="1010" y="1111" as="geometry" />
         </mxCell>
-        <mxCell id="cell_45" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.lambda;" value="Reconciliador" vertex="1">
-          <mxGeometry height="60" width="60" x="1020" y="1210" as="geometry" />
+        <object label="Reconciliador&lt;br&gt;corre cada 60s por EventBridge&lt;br&gt;detecta PAID sin boleto&amp;nbsp;&lt;span style=&quot;background-color: rgb(249, 250, 251); color: rgb(15, 17, 21); text-align: start; caret-color: rgb(15, 17, 21); white-space: pre-wrap;&quot;&gt;&amp;gt; 2 min&lt;br/&gt;garantiza regla jamas cobrar sin entregar boleto&lt;/span&gt;" id="cell_45">
+          <mxCell parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.lambda;" vertex="1">
+            <mxGeometry height="60" width="60" x="992" y="1341" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="cell_46" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.aurora;" value="Orders DB&lt;br&gt;con ACID estados&lt;br&gt;- pend-reserved-paid-ticket issued" vertex="1">
+          <mxGeometry height="60" width="60" x="1230" y="671" as="geometry" />
         </mxCell>
-        <mxCell id="cell_46" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.aurora;" value="Orders DB" vertex="1">
-          <mxGeometry height="60" width="60" x="1240" y="540" as="geometry" />
+        <mxCell id="cell_47" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.dynamodb;" value="Inventario DB&lt;br&gt;guarda assientos e suporta atomicidad con&lt;br&gt;latencia de milisegundos" vertex="1">
+          <mxGeometry height="60" width="60" x="1230" y="811" as="geometry" />
         </mxCell>
-        <mxCell id="cell_47" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.dynamodb;" value="Inventario DB" vertex="1">
-          <mxGeometry height="60" width="60" x="1240" y="680" as="geometry" />
+        <mxCell id="cell_48" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.sqs;" value="SQS FIFO&lt;br&gt;buffer entre checkout&lt;br&gt;y payment worker&lt;br&gt;con picos de 20x sin tumbar workers" vertex="1">
+          <mxGeometry height="60" width="60" x="1230" y="961" as="geometry" />
         </mxCell>
-        <mxCell id="cell_48" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.sqs;" value="SQS FIFO" vertex="1">
-          <mxGeometry height="60" width="60" x="1240" y="830" as="geometry" />
+        <mxCell id="cell_49" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.dynamodb;" value="Outbox Dynamod DB&lt;br&gt;graba order=PAID&lt;br&gt;worker lee y publica SNS" vertex="1">
+          <mxGeometry height="60" width="60" x="1230" y="1111" as="geometry" />
         </mxCell>
-        <mxCell id="cell_49" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.dynamodb;" value="Outbox" vertex="1">
-          <mxGeometry height="60" width="60" x="1240" y="980" as="geometry" />
+        <mxCell id="SoLsWotc0Vi4OJJ5Pqfq-23" edge="1" parent="1" source="cell_50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="cell_51" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cell_50" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.sns;" value="SNS" vertex="1">
-          <mxGeometry height="60" width="60" x="1240" y="1130" as="geometry" />
+        <mxCell id="cell_50" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.sns;" value="SNS&lt;br&gt;publica order.paid para consumidores&lt;br&gt;Ticket Issue Worker" vertex="1">
+          <mxGeometry height="60" width="60" x="1230" y="1261" as="geometry" />
         </mxCell>
-        <mxCell id="cell_51" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.s3;" value="Boletos S3" vertex="1">
-          <mxGeometry height="60" width="60" x="1240" y="1270" as="geometry" />
+        <mxCell id="cell_51" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.s3;" value="Boletos S3&lt;br&gt;almacena los PDFS con QR por CloudFront&lt;br&gt;bajo costo y durable" vertex="1">
+          <mxGeometry height="60" width="60" x="1230" y="1401" as="geometry" />
         </mxCell>
-        <mxCell id="cell_52" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.secrets_manager;" value="Secrets" vertex="1">
-          <mxGeometry height="60" width="60" x="820" y="1210" as="geometry" />
+        <mxCell id="cell_52" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.secrets_manager;" value="Secrets Manager&lt;br&gt;Store API de Stripe/DB&amp;nbsp;&lt;br&gt;cyclo de 90 dias&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="60" x="810" y="1171" as="geometry" />
         </mxCell>
-        <mxCell id="cell_53" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.cloudwatch;" value="CloudWatch" vertex="1">
-          <mxGeometry height="60" width="60" x="820" y="1310" as="geometry" />
+        <mxCell id="cell_53" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.cloudwatch;" value="CloudWatch&lt;br&gt;Metricas" vertex="1">
+          <mxGeometry height="60" width="60" x="810" y="1441" as="geometry" />
         </mxCell>
         <mxCell id="cell_54" edge="1" parent="1" source="cell_39" style="rounded=0;html=1;strokeColor=#000000;strokeWidth=2;fontSize=9;fontColor=#333333;edgeStyle=orthogonalEdgeStyle;jettySize=auto;orthogonalLoop=1;" target="cell_41" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -199,50 +204,50 @@
         <mxCell id="cell_65" edge="1" parent="1" source="cell_45" style="rounded=0;html=1;strokeColor=#D79B00;strokeWidth=2;fontSize=9;fontColor=#333333;dashed=1;dashPattern=6 4;edgeStyle=orthogonalEdgeStyle;jettySize=auto;orthogonalLoop=1;" target="cell_46" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cell_66" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.api_gateway;" value="API Gateway" vertex="1">
-          <mxGeometry height="60" width="60" x="1540" y="540" as="geometry" />
+        <mxCell id="cell_66" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.api_gateway;" value="API Gateway&lt;br&gt;HTTP de su region&lt;br&gt;hace rate limiting u enruta" vertex="1">
+          <mxGeometry height="60" width="60" x="1560" y="671" as="geometry" />
         </mxCell>
-        <mxCell id="cell_67" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.elastic_load_balancing;" value="ALB" vertex="1">
-          <mxGeometry height="60" width="60" x="1540" y="680" as="geometry" />
+        <mxCell id="cell_67" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.elastic_load_balancing;" value="ALB&lt;br&gt;Load Balancer&lt;br&gt;redirige se una se cae" vertex="1">
+          <mxGeometry height="60" width="60" x="1560" y="811" as="geometry" />
         </mxCell>
-        <mxCell id="cell_68" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.fargate;" value="Checkout" vertex="1">
-          <mxGeometry height="60" width="60" x="1740" y="540" as="geometry" />
+        <mxCell id="cell_68" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.fargate;" value="Checkout&lt;br&gt;&quot;Brain - coordina con inventario y encola en SQS" vertex="1">
+          <mxGeometry height="60" width="60" x="1760" y="671" as="geometry" />
         </mxCell>
-        <mxCell id="cell_69" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.fargate;" value="Inventario" vertex="1">
-          <mxGeometry height="60" width="60" x="1740" y="680" as="geometry" />
+        <mxCell id="cell_69" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.fargate;" value="Inventario&lt;br&gt;Asientos&lt;br&gt;UPDATE..WHERE status=Available" vertex="1">
+          <mxGeometry height="60" width="60" x="1760" y="811" as="geometry" />
         </mxCell>
-        <mxCell id="cell_70" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.fargate;" value="Payment Worker" vertex="1">
-          <mxGeometry height="60" width="60" x="1740" y="830" as="geometry" />
+        <mxCell id="cell_70" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.fargate;" value="Payment Worker&lt;br&gt;consume SQS ejecuta Stripe/no deja cobrar 2X&lt;br&gt;qdo confirma pago-actualiza order y graba en outbox" vertex="1">
+          <mxGeometry height="60" width="60" x="1760" y="961" as="geometry" />
         </mxCell>
-        <mxCell id="cell_71" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.fargate;" value="Ticket Issue" vertex="1">
-          <mxGeometry height="60" width="60" x="1740" y="980" as="geometry" />
+        <mxCell id="cell_71" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.fargate;" value="Ticket Issue Wroker&lt;br&gt;consume SNS-genera boleto en PDF con QR&lt;br&gt;gurada em S3 y TICKET ISSUED- email usuario" vertex="1">
+          <mxGeometry height="60" width="60" x="1760" y="1111" as="geometry" />
         </mxCell>
-        <mxCell id="cell_72" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.lambda;" value="Reconciliador" vertex="1">
-          <mxGeometry height="60" width="60" x="1740" y="1210" as="geometry" />
+        <mxCell id="cell_72" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.lambda;" value="Reconciliador&lt;br&gt;corre cada 60s por EventBridge&lt;br&gt;detecta PAID sin boleto &lt;span style=&quot;background-color: rgb(249, 250, 251); color: rgb(15, 17, 21); text-align: start; caret-color: rgb(15, 17, 21); white-space: pre-wrap;&quot;&gt;&amp;gt; 2 min&lt;br/&gt;garantiza regla jamas cobrar sin entregar boleto&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="60" x="1736" y="1341" as="geometry" />
         </mxCell>
-        <mxCell id="cell_73" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.aurora;" value="Orders DB" vertex="1">
-          <mxGeometry height="60" width="60" x="1960" y="540" as="geometry" />
+        <mxCell id="cell_73" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.aurora;" value="Orders DB&lt;br&gt;con ACID estados&lt;br&gt;- pend-reserved-paid-ticket issued" vertex="1">
+          <mxGeometry height="60" width="60" x="1980" y="671" as="geometry" />
         </mxCell>
-        <mxCell id="cell_74" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.dynamodb;" value="Inventario DB" vertex="1">
-          <mxGeometry height="60" width="60" x="1960" y="680" as="geometry" />
+        <mxCell id="cell_74" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.dynamodb;" value="Inventario DB&lt;br&gt;guarda assientos e suporta atomicidad con&lt;br&gt;latencia de milisegundos" vertex="1">
+          <mxGeometry height="60" width="60" x="1980" y="811" as="geometry" />
         </mxCell>
-        <mxCell id="cell_75" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.sqs;" value="SQS FIFO" vertex="1">
-          <mxGeometry height="60" width="60" x="1960" y="830" as="geometry" />
+        <mxCell id="cell_75" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.sqs;" value="SQS FIFO&lt;br&gt;buffer entre checkout&lt;br&gt;y payment worker&lt;br&gt;con picos de 20x sin tumbar workers" vertex="1">
+          <mxGeometry height="60" width="60" x="1980" y="961" as="geometry" />
         </mxCell>
-        <mxCell id="cell_76" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.dynamodb;" value="Outbox" vertex="1">
-          <mxGeometry height="60" width="60" x="1960" y="980" as="geometry" />
+        <mxCell id="cell_76" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.dynamodb;" value="Outbox Dynamod DB&lt;br&gt;graba order=PAID&lt;br&gt;worker lee y publica SNS" vertex="1">
+          <mxGeometry height="60" width="60" x="1980" y="1111" as="geometry" />
         </mxCell>
-        <mxCell id="cell_77" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.sns;" value="SNS" vertex="1">
-          <mxGeometry height="60" width="60" x="1960" y="1130" as="geometry" />
+        <mxCell id="cell_77" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.sns;" value="SNS&lt;br&gt;publica order.paid para consumidores&lt;br&gt;Ticket Issue Worker" vertex="1">
+          <mxGeometry height="60" width="60" x="1980" y="1261" as="geometry" />
         </mxCell>
-        <mxCell id="cell_78" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.s3;" value="Boletos S3" vertex="1">
-          <mxGeometry height="60" width="60" x="1960" y="1270" as="geometry" />
+        <mxCell id="cell_78" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.s3;" value="Boletos S3&lt;br&gt;almacena los PDFS con QR por CloudFront&lt;br&gt;bajo costo y durable" vertex="1">
+          <mxGeometry height="60" width="60" x="1980" y="1401" as="geometry" />
         </mxCell>
-        <mxCell id="cell_79" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.secrets_manager;" value="Secrets" vertex="1">
-          <mxGeometry height="60" width="60" x="1540" y="1210" as="geometry" />
+        <mxCell id="cell_79" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.secrets_manager;" value="Secrets Manager&lt;br&gt;Store API de Stripe/DB&amp;nbsp;&lt;br&gt;cyclo de 90 dias&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="60" x="1560" y="1161" as="geometry" />
         </mxCell>
-        <mxCell id="cell_80" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.cloudwatch;" value="CloudWatch" vertex="1">
-          <mxGeometry height="60" width="60" x="1540" y="1310" as="geometry" />
+        <mxCell id="cell_80" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.cloudwatch;" value="CloudWatch&lt;br&gt;Metricas" vertex="1">
+          <mxGeometry height="60" width="60" x="1560" y="1441" as="geometry" />
         </mxCell>
         <mxCell id="cell_81" edge="1" parent="1" source="cell_66" style="rounded=0;html=1;strokeColor=#000000;strokeWidth=2;fontSize=9;fontColor=#333333;edgeStyle=orthogonalEdgeStyle;jettySize=auto;orthogonalLoop=1;" target="cell_68" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -298,26 +303,26 @@
         <mxCell id="cell_98" edge="1" parent="1" source="cell_11" style="rounded=0;html=1;strokeColor=#6C8EBF;strokeWidth=1;fontSize=9;fontColor=#333333;dashed=1;dashPattern=6 4;edgeStyle=orthogonalEdgeStyle;jettySize=auto;orthogonalLoop=1;exitX=0.5;exitY=1.0;exitDx=0;exitDy=0;entryX=0.5;entryY=0.0;entryDx=0;entryDy=0;" target="cell_66" value="réplica catálogo">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cell_99" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#666666;strokeWidth=2;fontSize=13;fontStyle=1;" value="Stripe / PayPal" vertex="1">
-          <mxGeometry height="90" width="240" x="280" y="1410" as="geometry" />
+        <mxCell id="cell_99" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#666666;strokeWidth=2;fontSize=13;fontStyle=1;" value="Stripe / PayPal&lt;br&gt;nunca guarda tarejtas - todo scope PCI con STRIPE por Region" vertex="1">
+          <mxGeometry height="90" width="240" x="121" y="1720" as="geometry" />
         </mxCell>
         <mxCell id="cell_100" edge="1" parent="1" source="cell_16" style="rounded=0;html=1;strokeColor=#B85450;strokeWidth=2;fontSize=9;fontColor=#333333;dashed=1;dashPattern=6 4;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=0.5;exitY=1.0;exitDx=0;exitDy=0;entryX=0.5;entryY=0.0;entryDx=0;entryDy=0;" target="cell_99" value="pago">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cell_101" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#666666;strokeWidth=2;fontSize=13;fontStyle=1;" value="Stripe / PayPal" vertex="1">
-          <mxGeometry height="90" width="240" x="1000" y="1410" as="geometry" />
+        <mxCell id="cell_101" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#666666;strokeWidth=2;fontSize=13;fontStyle=1;" value="Stripe / PayPal&lt;br&gt;nunca guarda tarejtas - todo scope PCI con STRIPE por Region" vertex="1">
+          <mxGeometry height="90" width="240" x="860" y="1720" as="geometry" />
         </mxCell>
         <mxCell id="cell_102" edge="1" parent="1" source="cell_43" style="rounded=0;html=1;strokeColor=#B85450;strokeWidth=2;fontSize=9;fontColor=#333333;dashed=1;dashPattern=6 4;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=0.5;exitY=1.0;exitDx=0;exitDy=0;entryX=0.5;entryY=0.0;entryDx=0;entryDy=0;" target="cell_101" value="pago">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cell_103" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#666666;strokeWidth=2;fontSize=13;fontStyle=1;" value="Stripe / PayPal" vertex="1">
-          <mxGeometry height="90" width="240" x="1720" y="1410" as="geometry" />
+        <mxCell id="cell_103" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#666666;strokeWidth=2;fontSize=13;fontStyle=1;" value="Stripe / PayPal&lt;br&gt;nunca guarda tarejtas - todo scope PCI con STRIPE por Region" vertex="1">
+          <mxGeometry height="90" width="240" x="1600" y="1700" as="geometry" />
         </mxCell>
         <mxCell id="cell_104" edge="1" parent="1" source="cell_70" style="rounded=0;html=1;strokeColor=#B85450;strokeWidth=2;fontSize=9;fontColor=#333333;dashed=1;dashPattern=6 4;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=0.5;exitY=1.0;exitDx=0;exitDy=0;entryX=0.5;entryY=0.0;entryDx=0;entryDy=0;" target="cell_103" value="pago">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cell_105" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#333333;strokeWidth=2;verticalAlign=top;align=left;spacingTop=10;spacingLeft=15;fontSize=14;fontStyle=1;fontColor=#333333;" value="LEYENDA" vertex="1">
-          <mxGeometry height="240" width="440" x="2160" y="450" as="geometry" />
+          <mxGeometry height="240" width="310" x="2175" y="448.5" as="geometry" />
         </mxCell>
         <mxCell id="cell_106" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=0;fontColor=#000000;" value="Azul: Plano Global" vertex="1">
           <mxGeometry height="25" width="410" x="2175" y="500" as="geometry" />
@@ -336,6 +341,67 @@
         </mxCell>
         <mxCell id="cell_111" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=0;fontColor=#000000;" value="Catalogo/Boletos: eventual" vertex="1">
           <mxGeometry height="25" width="410" x="2175" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="SoLsWotc0Vi4OJJ5Pqfq-27" edge="1" parent="1" source="SoLsWotc0Vi4OJJ5Pqfq-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="cell_7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SoLsWotc0Vi4OJJ5Pqfq-26" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="&lt;div&gt;Usuario&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="25" x="166.5" y="144" as="geometry" />
+        </mxCell>
+        <mxCell id="SoLsWotc0Vi4OJJ5Pqfq-30" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.elasticache;" value="ElastiCache (Redis)" vertex="1">
+          <mxGeometry height="90" width="90" x="1370" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="SoLsWotc0Vi4OJJ5Pqfq-46" edge="1" parent="1" source="SoLsWotc0Vi4OJJ5Pqfq-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1420" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SoLsWotc0Vi4OJJ5Pqfq-31" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#333333;" value="Sala de espera virtual — contador de posicion por evento" vertex="1">
+          <mxGeometry height="30" width="240" x="1290" y="295" as="geometry" />
+        </mxCell>
+        <mxCell id="SoLsWotc0Vi4OJJ5Pqfq-32" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.eventbridge;" value="EventBridge" vertex="1">
+          <mxGeometry height="78" width="78" x="1670" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="SoLsWotc0Vi4OJJ5Pqfq-33" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#333333;" value="Pre-escalado programado — sube ECS 15 min antes del drop" vertex="1">
+          <mxGeometry height="30" width="240" x="1590" y="286" as="geometry" />
+        </mxCell>
+        <mxCell id="SoLsWotc0Vi4OJJ5Pqfq-34" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=14;fillColor=#FFF8C5;strokeColor=#D6B656;fontSize=10;align=left;spacing=6;" value="Sabemos la fecha/hora del drop. Ajusta capacidad antes de que llegue el pico." vertex="1">
+          <mxGeometry height="25" width="240" x="1600" y="339" as="geometry" />
+        </mxCell>
+        <mxCell id="SoLsWotc0Vi4OJJ5Pqfq-35" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=14;fillColor=#FFF8C5;strokeColor=#D6B656;fontSize=10;align=left;spacing=6;" value="Se activa cuando el trafico supera 5.000 req/s. Convierte 20x en 1x controlado." vertex="1">
+          <mxGeometry height="30" width="220" x="1300" y="334" as="geometry" />
+        </mxCell>
+        <mxCell id="SoLsWotc0Vi4OJJ5Pqfq-38" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.xray;" value="X-Ray" vertex="1">
+          <mxGeometry height="36" width="36" x="112" y="1568" as="geometry" />
+        </mxCell>
+        <mxCell id="SoLsWotc0Vi4OJJ5Pqfq-39" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#333333;" value="Traza cada compra end-to-end" vertex="1">
+          <mxGeometry height="25" width="200" x="30" y="1627" as="geometry" />
+        </mxCell>
+        <mxCell id="SoLsWotc0Vi4OJJ5Pqfq-40" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.xray;" value="X-Ray" vertex="1">
+          <mxGeometry height="48" width="48" x="818" y="1562" as="geometry" />
+        </mxCell>
+        <mxCell id="SoLsWotc0Vi4OJJ5Pqfq-41" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#333333;" value="Traza cada compra end-to-end" vertex="1">
+          <mxGeometry height="25" width="200" x="751" y="1620" as="geometry" />
+        </mxCell>
+        <mxCell id="SoLsWotc0Vi4OJJ5Pqfq-42" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=11;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.xray;" value="X-Ray" vertex="1">
+          <mxGeometry height="48" width="48" x="1566" y="1562" as="geometry" />
+        </mxCell>
+        <mxCell id="SoLsWotc0Vi4OJJ5Pqfq-43" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#333333;" value="Traza cada compra end-to-end" vertex="1">
+          <mxGeometry height="18" width="140" x="1520" y="1634" as="geometry" />
+        </mxCell>
+        <mxCell id="SoLsWotc0Vi4OJJ5Pqfq-44" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#999999;strokeWidth=2;dashed=1;dashPattern=6 4;fontSize=10;fontColor=#333333;" target="SoLsWotc0Vi4OJJ5Pqfq-30" value="consulta sala de espera">
+          <mxGeometry relative="1" x="0.8407" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="120.00323818019618" y="700.4099999999997" as="sourcePoint" />
+            <mxPoint x="1375.03" y="267.9992857142856" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SoLsWotc0Vi4OJJ5Pqfq-47" edge="1" parent="1" source="cell_14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#D79B00;strokeWidth=2;dashed=1;dashPattern=6 4;fontSize=10;fontColor=#333333;" target="SoLsWotc0Vi4OJJ5Pqfq-32" value="pre-escala ECS">
+          <mxGeometry relative="1" x="0.8415" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="680" y="500" as="sourcePoint" />
+            <mxPoint x="940" y="500" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
