@@ -25,6 +25,8 @@ LiveTix es una plataforma global de venta de boletos para eventos en vivo, opera
 
 ### Problema
 
+Lo primero que descarté fue confiar en autoescalado reactivo. En un drop de boletos no tienes minutos: tienes segundos. Cualquier diseño que dependa de que ECS "reaccione" al tráfico ya perdió.
+
 El autoescalado reactivo (target tracking en ECS, por ejemplo) tarda 2-5 minutos en reaccionar. Un pico de 20x en 60 segundos satura el sistema antes de que escale.
 
 ### Solución en capas
@@ -72,6 +74,8 @@ En DynamoDB (alternativa):
 La base de datos garantiza atomicidad en una sola fila. No hay race condition posible: dos transacciones concurrentes no pueden ambas ganar la misma fila.
 
 ### Decisión: inventario por región
+
+Esta fue la decisión más difícil de justificar, porque rompe la intuición de "todo replicado en todas partes". Pero replicar inventario con consistencia fuerte cross-region cuesta 10x y agrega complejidad operativa que un equipo de 5 no puede sostener.
 
 El inventario de un evento vive en **una sola región** (la "dueña", la más cercana al venue). Esto evita coordinación distribuida.
 
@@ -225,5 +229,7 @@ La arquitectura prioriza:
 2. **Simplicidad operativa** (serverless gestionado, 5 ingenieros).
 3. **Latencia global baja** (3 regiones, CDN, datos regionales).
 4. **Resiliencia** (Multi-AZ, reconciliador, canary).
+
+Si tuviera que defender este diseño en una frase: prioricé que el camino crítico (pago↔boleto) sea consistente, y acepté latencia cross-region donde el negocio lo tolera.
 
 Cada decisión tiene un tradeoff explícito. No hay tecnología de moda: todo está justificado por costo, escala, consistencia o resiliencia.
