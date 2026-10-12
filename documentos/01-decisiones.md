@@ -138,6 +138,27 @@ El inventario de un evento vive en **una sola región** (la "dueña", la más ce
 - Route 53 latency-based routing para lectura.
 - Para checkout, el frontend sabe a qué región pertenece el evento y llama directo a esa región.
 
+### Estimación de costos (orden de magnitud)
+
+Supuesto conservador: **10M usuarios activos/mes, 1M boletos/mes, 500 eventos/mes.**
+
+| Componente | 1 región | 3 regiones | Delta |
+|---|---|---|---|
+| ECS Fargate | $3.500/mes | $10.500/mes | +$7.000 |
+| Aurora Multi-AZ (orders) | $1.200/mes | $3.600/mes | +$2.400 |
+| DynamoDB (inventario) | $800/mes | $2.400/mes | +$1.600 |
+| ElastiCache + SQS + SNS + Lambda | $500/mes | $1.500/mes | +$1.000 |
+| CloudFront + S3 + transferencia | $1.500/mes | $4.500/mes | +$3.000 |
+| Observabilidad | $400/mes | $1.200/mes | +$800 |
+| **Total** | **$7.900/mes** | **$23.700/mes** | **+$15.800/mes** |
+
+**Justificación:** con 1M boletos/mes y ticket medio de $50, son $50M/mes
+de GMV. El extra de $15.8K/mes es **0.03% del GMV**. A cambio, ganamos
+latencia sub-100ms en 3 continentes y tolerancia a caída de una región.
+
+**Qué NO multiplicamos por 3:** inventario y pedidos activos viven en una
+sola región por evento. El 60% del costo de escritura NO se triplica.
+
 ### Tradeoffs
 
 - Latencia cross-region en checkout (~150ms). **Aceptable.**
@@ -160,6 +181,18 @@ Route 53 health checks detectan la caída y redirigen a la región más cercana.
 
 - Para lectura: no (CloudFront cachea).
 - Para checkout de eventos en la región caída: sí, ve un mensaje "estamos teniendo problemas, intenta en unos minutos". Es preferible a cobrar sin poder entregar.
+
+### Costo de la resiliencia
+
+| Estrategia | Costo | Complejidad | Decisión |
+|---|---|---|---|
+| Multi-AZ (actual) | Incluido en Aurora | Baja | ✅ Sí |
+| Región pasiva (pilot light) | +30% del costo | Media | Considerar si crece |
+| Multi-región activo-activo | +200% del costo | Muy alta | ❌ No ahora |
+
+**Justificación:** con 1M boletos/mes, un RTO de 5-10 min en una región
+afecta ~0.05% de las ventas mensuales. El costo de failover activo-activo
+(+200%) no se justifica con ese impacto.
 
 ### Tradeoffs
 
