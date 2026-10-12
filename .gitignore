@@ -9,3 +9,7 @@ __pycache__/
 # Archivos internos de edicion (no forman parte del entregable)
 Extras-*.drawio
 *.backup-antes-melhorias.drawio
+
+# Material de estudio personal (no forma parte del entregable)
+LiveTix-Cheatsheet-*.docx
+LiveTix-Cheatsheet-*.pdf
